@@ -2,7 +2,7 @@
 
 **Data Analyst** | SQL · Excel · Power BI
 
-I turn raw data into clear, decision-ready insights. My portfolio follows a consistent process: define the business question, clean and structure the data, analyse it, and report findings with practical recommendations.
+I turn raw data into clear, decision-ready insights. My portfolio follows a consistent process: define the question, clean and structure the data, analyse it, and report findings with practical recommendations.
 
 I am currently building my analytics skills through applied projects and formal training. I am open to entry-level and junior data analyst opportunities.
 
