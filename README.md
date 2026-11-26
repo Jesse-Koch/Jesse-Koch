@@ -1,21 +1,29 @@
-# Hi, I'm Jesse.
+# Jesse T Koch
 
-Data Analyst | SQL · Excel · Power BI | Turning raw data into valuable insights
+**Data Analyst** | SQL · Excel · Power BI
 
-Based in Kampala, Uganda. I'm teaching myself data analysis through hands-on portfolio projects. Each project below starts from a business question and ends with findings someone could act on.
+I turn raw data into clear, decision-ready insights. My portfolio follows a consistent process: define the business question, clean and structure the data, analyse it, and report findings with practical recommendations.
 
-## 📊 Data Analysis
+I am currently building my analytics skills through applied projects and formal training. I am open to entry-level and junior data analyst opportunities.
 
-**Tools:** SQL (MySQL) · Excel (PivotTables) · Power BI
+📍 Kampala, Uganda
 
-| Project | What I analysed | Tools |
+## Data Analysis
+
+Six projects across retail, HR, telecom, media, and energy, each documented with its problem statement, methodology, key findings, and recommendations.
+
+**Core tools:** SQL (MySQL) · Excel (PivotTables) · Power BI
+
+| Project | Focus | Tools |
 |---|---|---|
-| [Superstore Sales](https://github.com/Jesse-Koch/superstore-sql-analysis) | Retail sales performance using the Kaggle Superstore dataset | SQL |
-| [HR Attrition](https://github.com/Jesse-Koch/hr-attrition-excel-analysis) | The drivers of employee attrition | Excel, PivotTables |
-| [Telco Customer Churn](https://github.com/Jesse-Koch/REPO-NAME) | Why customers leave a telecom provider | Power BI |
-| [Northwind Database](https://github.com/Jesse-Koch/REPO-NAME) | Business questions on the Northwind sample database | SQL |
-| [Chinook Digital Media Store](https://github.com/Jesse-Koch/chinook-full-stack-analysis) | A three-phase analysis of a digital media store, taken from raw data to dashboard | SQL → Excel → Power BI |
-| EIA-861 Electric Utilities *(in progress)* | US electric utility sales and customer data, 2020–2024, with a focus on statistical profiling | SQL (MySQL), Power BI |
+| [Superstore Sales](https://github.com/Jesse-Koch/superstore-sql-analysis) | Retail sales performance analysis using the Kaggle Superstore dataset | SQL |
+| [HR Attrition](https://github.com/Jesse-Koch/hr-attrition-excel-analysis) | Identifying the key drivers of employee attrition | Excel, PivotTables |
+| [Telco Customer Churn](https://github.com/Jesse-Koch/REPO-NAME) | Understanding why customers leave a telecom provider | Power BI |
+| [Northwind Database](https://github.com/Jesse-Koch/REPO-NAME) | Answering business questions from the Northwind sample database | SQL |
+| [Chinook Digital Media Store](https://github.com/Jesse-Koch/chinook-full-stack-analysis) | Three-phase analysis of a digital media store, from raw data to dashboard | SQL → Excel → Power BI |
+| EIA-861 Electric Utilities *(in progress)* | US electric utility sales and customer data (2020–2024), with emphasis on statistical profiling | SQL (MySQL), Power BI |
+
+<!-- Add GIS & Remote Sensing and Python sections below once each has at least one project. -->
 
 <!-- Add GIS & Remote Sensing and Python sections below once each has at least one project. -->
 
