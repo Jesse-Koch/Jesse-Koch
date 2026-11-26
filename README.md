@@ -16,9 +16,9 @@ Six projects across retail, HR, telecom, media, and energy, each documented with
 
 | Project | Focus | Tools |
 |---|---|---|
-| [Superstore Sales](https://github.com/Jesse-Koch/superstore-sql-analysis) | Retail sales performance analysis using the Kaggle Superstore dataset | SQL |
+| [Superstore Sales Analysis](https://github.com/Jesse-Koch/superstore-sql-analysis) | Retail sales performance analysis using the Kaggle Superstore dataset | SQL |
 | [HR Attrition](https://github.com/Jesse-Koch/hr-attrition-excel-analysis) | Identifying the key drivers of employee attrition | Excel, PivotTables |
-| [Telco Customer Churn](https://github.com/Jesse-Koch/REPO-NAME) | Understanding why customers leave a telecom provider | Power BI |
+| [Telco Customer Churn](https://github.com/Jesse-Koch/Telco-Churn-PowerBI-Analysis) | Understanding why customers leave a telecom provider | Power BI |
 | [Northwind Database](https://github.com/Jesse-Koch/northwind-sql-demo) | Answering business questions from the Northwind sample database | SQL |
 | [Chinook Digital Media Store](https://github.com/Jesse-Koch/chinook-full-stack-analysis) | Three-phase analysis of a digital media store, from raw data to dashboard | SQL → Excel → Power BI |
 | EIA-861 Electric Utilities *(in progress)* | US electric utility sales and customer data (2020–2024), with emphasis on statistical profiling | SQL (MySQL), Power BI |
